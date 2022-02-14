@@ -1,7 +1,7 @@
 ### Olá, aqui é o Ronaldo Mello 👋
 
 
-- 🌱 Estou aprendendo PHP...
+- 🌱 Estou aprendendo PHP, Docker, AWS...
 
  <div>
   <a href="https://github.com/ronaldomello">
